@@ -3,3 +3,7 @@ a_names={name for name in names_set if name.startswith("A")}
 b_names={name for name in names_set if name.startswith("B")}
 print("names starting with A:",a_names)
 print("names starting with B:",b_names)
+
+output:
+names starting with A: {'Aryan', 'Arnab', 'Ayushi'}
+names starting with B: {'Bita', 'Bina', 'Bobby'}
