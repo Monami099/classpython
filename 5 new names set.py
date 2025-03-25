@@ -12,3 +12,8 @@ print("set after modifying a name:",names_set)
 names_set.discard("Maya")
 names_set.discard("Eric")
 print("set after dleleting names:",names_set)
+
+output:
+set after adding names: {'Dev', 'Maya', 'Charls', 'Eric', 'Bina'}
+set after modifying a name: {'Dev', 'Maya', 'Charls', 'Eric', 'Bina'}
+set after dleleting names: {'Dev', 'Charls', 'Bina'}
