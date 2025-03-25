@@ -13,3 +13,10 @@ elif(b<a and b<c):
   print("smallest=",b)
 else:
   print("smallest=",c)
+
+output:
+enter num1=46
+enter num2=74
+enter num3=34
+largest= 74
+smallest= 34
