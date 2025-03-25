@@ -6,3 +6,9 @@ if(a>b):
 else:
   print("largest number=",b)
   print("smallest number=",a)
+
+output:
+enter num1=67
+enter num2=34
+largest number= 67
+smallest number= 34
